@@ -4,7 +4,7 @@ Dit repository bevat bronbestanden voor kleding development voor FiveM.
 
 ## Inhoud
 
-- "Voor amstelstad dev sollicitatie": Deze map bevat de bronbestanden voor de kleding, waaronder texturen, modellen en eventuele andere benodigde assets.
+- **Voor amstelstad dev sollicitatie**: Deze map bevat de bronbestanden voor de kleding, waaronder texturen, modellen en eventuele andere benodigde assets.
 
 ## Hoe te gebruiken
 
