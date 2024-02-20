@@ -1,4 +1,4 @@
-# FiveM Kledingontwikkeling Repository
+# FiveM Kleding development Repository
 
 Dit repository bevat bronbestanden voor kleding development voor FiveM.
 
