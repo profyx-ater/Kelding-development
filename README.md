@@ -11,4 +11,4 @@ Dit repository bevat bronbestanden voor kleding development voor FiveM.
 1. Kloon deze repository naar je lokale machine:
 
    ```bash
-   git clone https://github.com/jouw-gebruikersnaam/fivem-kleding-ontwikkeling.git
+   git clone https://github.com/profyx-ater/Kelding-development.git
